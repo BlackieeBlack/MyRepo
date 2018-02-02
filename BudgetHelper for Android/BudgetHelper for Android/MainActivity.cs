@@ -9,7 +9,7 @@ namespace BudgetHelper_for_Android
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
-            base.OnCreate(savedInstanceState);
+            base.OnCreate(savedInstanceState);//asdasdasdad
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
